@@ -3,6 +3,19 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# kaldi build results
+exp/
+mfcc/
+data/lang
+data/local/tmp
+data/train/.backup
+data/test/.backup
+data/test/split1
+data/train/split1
+digits_audio/
+steps
+utils
+
 # C extensions
 *.so
 

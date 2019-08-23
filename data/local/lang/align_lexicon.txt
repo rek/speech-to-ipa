@@ -1,0 +1,12 @@
+!SIL sil_S
+<UNK> spn_S
+one w_B ʌ_I n_E
+two t_B u_E
+three θ_B r_I i_E
+four f_B ɔ_I r_E
+five f_B a_I ɪ_I v_E
+six s_B ɪ_I k_I s_E
+seven ˈs_B ɛ_I v_I ə_I n_E
+eight e_B ɪ_I t_E
+nine n_B a_I ɪ_I n_E
+<eps> sil

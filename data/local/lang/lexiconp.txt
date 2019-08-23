@@ -1,0 +1,11 @@
+!SIL 1.0 sil_S
+<UNK> 1.0 spn_S
+one 1.0 w_B ʌ_I n_E
+two 1.0 t_B u_E
+three 1.0 θ_B r_I i_E
+four 1.0 f_B ɔ_I r_E
+five 1.0 f_B a_I ɪ_I v_E
+six 1.0 s_B ɪ_I k_I s_E
+seven 1.0 ˈs_B ɛ_I v_I ə_I n_E
+eight 1.0 e_B ɪ_I t_E
+nine 1.0 n_B a_I ɪ_I n_E

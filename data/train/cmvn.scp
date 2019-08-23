@@ -1,0 +1,2 @@
+speaker_2 /home/rek/dev/kaldi/egs/digits/mfcc/cmvn_train.ark:10
+speaker_3 /home/rek/dev/kaldi/egs/digits/mfcc/cmvn_train.ark:259

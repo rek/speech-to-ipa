@@ -1,0 +1,11 @@
+!SIL 1.0	sil
+<UNK> 1.0	spn
+one 1.0	w ʌ n
+two 1.0	t u
+three 1.0	θ r i
+four 1.0	f ɔ r
+five 1.0	f a ɪ v
+six 1.0	s ɪ k s
+seven 1.0	ˈs ɛ v ə n
+eight 1.0	e ɪ t
+nine 1.0	n a ɪ n
