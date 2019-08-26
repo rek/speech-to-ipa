@@ -1,11 +1,22 @@
 !SIL 1.0 sil_S
 <UNK> 1.0 spn_S
-one 1.0 w_B ʌ_I n_E
-two 1.0 t_B u_E
-three 1.0 θ_B r_I i_E
-four 1.0 f_B ɔ_I r_E
-five 1.0 f_B a_I ɪ_I v_E
-six 1.0 s_B ɪ_I k_I s_E
-seven 1.0 ˈs_B ɛ_I v_I ə_I n_E
-eight 1.0 e_B ɪ_I t_E
-nine 1.0 n_B a_I ɪ_I n_E
+ཤེང་ 1.0 ɕ_B e_I ŋ_E
+རི་ 1.0 r_B i_E
+བུད་ 1.0 b_B u_I t_E
+ཀ་ 1.0 k_B a_E
+ནི་ 1.0 n_B i_E
+ཙེ་ 1.0 ts_B e_E
+པརང་ 1.0 pr_B a_I ŋ_E
+ཙིག་ 1.0 ts_B i_I k_E
+པུ་ 1.0 p_B u_E
+ལོ་ 1.0 l_B o_E
+འུག་ 1.0 u_B k_E
+པ་ 1.0 p_B a_E
+དུ་ 1.0 d_B u_E
+ནེ་ 1.0 n_B e_E
+ང་ 1.0 ŋ_B a_E
+ཁྱི་ 1.0 cʰ_B i_E
+ཁེམ་ 1.0 cʰ_B e_I m_E
+དོ་ 1.0 d_B o_E
+བུར་ 1.0 b_B u_I r_E
+པུང་ 1.0 p_B u_I ŋ_E

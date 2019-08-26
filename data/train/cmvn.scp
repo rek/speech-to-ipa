@@ -1,2 +1,2 @@
-speaker_2 /home/rek/dev/kaldi/egs/digits/mfcc/cmvn_train.ark:10
-speaker_3 /home/rek/dev/kaldi/egs/digits/mfcc/cmvn_train.ark:259
+speaker_1 /home/rek/dev/kaldi/egs/speech-to-ipa/mfcc/cmvn_train.ark:10
+speaker_2 /home/rek/dev/kaldi/egs/speech-to-ipa/mfcc/cmvn_train.ark:259

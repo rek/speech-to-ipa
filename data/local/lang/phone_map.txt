@@ -1,21 +1,21 @@
 sil sil sil_B sil_E sil_I sil_S 
 spn spn spn_B spn_E spn_I spn_S 
-w w_B w_E w_I w_S 
-ʌ ʌ_B ʌ_E ʌ_I ʌ_S 
-n n_B n_E n_I n_S 
-t t_B t_E t_I t_S 
-u u_B u_E u_I u_S 
-θ θ_B θ_E θ_I θ_S 
+ɕ ɕ_B ɕ_E ɕ_I ɕ_S 
+e e_B e_E e_I e_S 
+ŋ ŋ_B ŋ_E ŋ_I ŋ_S 
 r r_B r_E r_I r_S 
 i i_B i_E i_I i_S 
-f f_B f_E f_I f_S 
-ɔ ɔ_B ɔ_E ɔ_I ɔ_S 
-a a_B a_E a_I a_S 
-ɪ ɪ_B ɪ_E ɪ_I ɪ_S 
-v v_B v_E v_I v_S 
-s s_B s_E s_I s_S 
+b b_B b_E b_I b_S 
+u u_B u_E u_I u_S 
+t t_B t_E t_I t_S 
 k k_B k_E k_I k_S 
-ˈs ˈs_B ˈs_E ˈs_I ˈs_S 
-ɛ ɛ_B ɛ_E ɛ_I ɛ_S 
-ə ə_B ə_E ə_I ə_S 
-e e_B e_E e_I e_S 
+a a_B a_E a_I a_S 
+n n_B n_E n_I n_S 
+ts ts_B ts_E ts_I ts_S 
+pr pr_B pr_E pr_I pr_S 
+p p_B p_E p_I p_S 
+l l_B l_E l_I l_S 
+o o_B o_E o_I o_S 
+d d_B d_E d_I d_S 
+cʰ cʰ_B cʰ_E cʰ_I cʰ_S 
+m m_B m_E m_I m_S 

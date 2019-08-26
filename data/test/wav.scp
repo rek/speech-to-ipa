@@ -1,10 +1,1 @@
-speaker_1_1_2_3 /home/rek/dev/kaldi/egs/digits/digits_audio/test/speaker_1/1_2_3.wav
-speaker_1_1_6_3 /home/rek/dev/kaldi/egs/digits/digits_audio/test/speaker_1/1_6_3.wav
-speaker_1_2_3_4 /home/rek/dev/kaldi/egs/digits/digits_audio/test/speaker_1/2_3_4.wav
-speaker_1_3_4_5 /home/rek/dev/kaldi/egs/digits/digits_audio/test/speaker_1/3_4_5.wav
-speaker_1_4_5_6 /home/rek/dev/kaldi/egs/digits/digits_audio/test/speaker_1/4_5_6.wav
-speaker_1_6_7_8 /home/rek/dev/kaldi/egs/digits/digits_audio/test/speaker_1/6_7_8.wav
-speaker_1_7_3_2 /home/rek/dev/kaldi/egs/digits/digits_audio/test/speaker_1/7_3_2.wav
-speaker_1_7_6_5 /home/rek/dev/kaldi/egs/digits/digits_audio/test/speaker_1/7_6_5.wav
-speaker_1_7_8_9 /home/rek/dev/kaldi/egs/digits/digits_audio/test/speaker_1/7_8_9.wav
-speaker_1_9_8_7 /home/rek/dev/kaldi/egs/digits/digits_audio/test/speaker_1/9_8_7.wav
+speaker_2_flue /home/rek/dev/kaldi/egs/speech-to-ipa/audio/test/ani/2.wav

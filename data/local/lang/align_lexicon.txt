@@ -1,12 +1,23 @@
 !SIL sil_S
 <UNK> spn_S
-one w_B ʌ_I n_E
-two t_B u_E
-three θ_B r_I i_E
-four f_B ɔ_I r_E
-five f_B a_I ɪ_I v_E
-six s_B ɪ_I k_I s_E
-seven ˈs_B ɛ_I v_I ə_I n_E
-eight e_B ɪ_I t_E
-nine n_B a_I ɪ_I n_E
+ཤེང་ ɕ_B e_I ŋ_E
+རི་ r_B i_E
+བུད་ b_B u_I t_E
+ཀ་ k_B a_E
+ནི་ n_B i_E
+ཙེ་ ts_B e_E
+པརང་ pr_B a_I ŋ_E
+ཙིག་ ts_B i_I k_E
+པུ་ p_B u_E
+ལོ་ l_B o_E
+འུག་ u_B k_E
+པ་ p_B a_E
+དུ་ d_B u_E
+ནེ་ n_B e_E
+ང་ ŋ_B a_E
+ཁྱི་ cʰ_B i_E
+ཁེམ་ cʰ_B e_I m_E
+དོ་ d_B o_E
+བུར་ b_B u_I r_E
+པུང་ p_B u_I ŋ_E
 <eps> sil

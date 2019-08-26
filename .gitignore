@@ -12,7 +12,8 @@ data/train/.backup
 data/test/.backup
 data/test/split1
 data/train/split1
-digits_audio/
+data/decode
+audio/
 steps
 utils
 
